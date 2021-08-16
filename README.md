@@ -1,1 +1,1 @@
-# Chess_Game
+This is a chess game written from scratch using pygame. Some features in this game I added are: move highlighting, undo move by pressing 'z', reset game by pressing 'r'. I also implemented a simple chess AI by using greedy algorithms.
